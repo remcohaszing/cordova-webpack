@@ -1,0 +1,23 @@
+{
+  "name": "cordova-webpack",
+  "version": "0.0.0",
+  "description": "Build a webpack project for use with Cordova",
+  "main": "hook.js",
+  "scripts": {
+    "test": "eslint ."
+  },
+  "author": "Remco Haszing <remcohaszing@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "webpack-merge": "^4.1.3"
+  },
+  "peerDependencies": {
+    "webpack": "^3 | ^4"
+  },
+  "devDependencies": {
+    "eslint": "^4.19.1",
+    "eslint-config-airbnb-base": "^12.1.0",
+    "eslint-plugin-import": "^2.12.0",
+    "webpack": "^4.12.0"
+  }
+}
