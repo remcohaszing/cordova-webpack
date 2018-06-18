@@ -8,6 +8,18 @@
   },
   "author": "Remco Haszing <remcohaszing@gmail.com>",
   "license": "MIT",
+  "keywords": [
+    "cordova",
+    "webpack"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/remcohaszing/cordova-webpack.git"
+  },
+  "bugs": {
+    "url": "https://github.com/remcohaszing/cordova-webpack/issues"
+  },
+  "homepage": "https://github.com/remcohaszing/cordova-webpack#readme",
   "dependencies": {
     "webpack-merge": "^4.1.3"
   },

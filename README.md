@@ -2,6 +2,8 @@
 
 > Automate Webpack for Cordova based projects
 
+[![build status][travis-image]][travis-url]
+
 ## Installation
 
 `cordova-webpack` can be installed using npm.
@@ -55,3 +57,5 @@ The output path is always set to *www* and the *ProgressPlugin* is always includ
 
 [cordova hook context]: https://cordova.apache.org/docs/en/latest/guide/appdev/hooks#javascript
 [cordova hooks]: https://cordova.apache.org/docs/en/latest/guide/appdev/hooks#introduction
+[travis-image]: https://img.shields.io/travis/remcohaszing/cordova-webpack.svg
+[travis-url]: https://travis-ci.org/remcohaszing/cordova-webpack
